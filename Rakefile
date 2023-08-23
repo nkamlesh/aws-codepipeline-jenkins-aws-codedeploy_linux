@@ -3,6 +3,7 @@
 require 'rake/testtask'
 require 'rubygems'
 require 'rake'
+require 'haml'
 
 task default: :compile
 
